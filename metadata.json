@@ -1,0 +1,6 @@
+{
+  "name": "Violet Media Player",
+  "description": "A modern, premium Windows desktop media player with violet accents, combining high-compatibility audio and video playback, 10-band equalizer, audio visualizer, video adjustments, subtitles, playlists, and media library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
